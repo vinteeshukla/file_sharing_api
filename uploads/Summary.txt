@@ -1,0 +1,23 @@
+
+
+- Vintee is a IBM Certified and has 3 years of hands-on experience in understanding the data,importing and exporting data,accessing database,dealing with missing values,pre-processing data,data formatting and normalization,descriptive statistics,binning,turning categorical variables into quantitative variable,correlation-statistics,Linear regression and multiple linear regression and model evaluation using visualization.
+
+-Overview of the project falcon 9:
+
+SpaceX has gained worldwide attention for a series of historic milestones.
+It is the only private company ever to return a spacecraft from low-earth orbit, which it first accomplished in December 2010. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars wheras other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage.
+
+Therefore if the first stage will land, we can determine the cost of a launch.
+
+This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+
+
+-This dataset includes a record for each payload carried during a SpaceX mission into outer space.
+Perform exploratory Data Analysis and Feature Engineering using Pandas and Matplotlib.
+
+-Project has created a machine learning pipeline to predict if the first stage will land.
+Performed exploratory Data Analysis and determined Training Labels,created a column for the class,standardized the data and splited into training data and test data.
+
+-I have done this project as a data analyst and completed in 3 months.I have discovered many interesting insights related to the launch sites' location using folium, in a very interactive way.
+
+
